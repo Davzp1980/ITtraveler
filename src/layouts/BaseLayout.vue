@@ -7,7 +7,7 @@
     </section>
 
     <section class="flex-1">
-      <img class="h-full w-full object-cover" src="/src/assets/img/static-map.png" alt="map" />
+      <img class="h-full w-full object-cover" src="/public/img/static-map.png" alt="map" />
     </section>
   </main>
 </template>

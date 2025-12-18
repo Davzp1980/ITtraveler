@@ -16,14 +16,14 @@ const favoritePlaces = [
     id: 1,
     title: 'New place 1',
     description: 'Super description 1',
-    img: '/src/assets/img/punkt.png',
+    img: '/img/punkt.png',
     lngLat: [30.523333, 50.450001],
   },
   {
     id: 2,
     title: 'New place 2',
     description: 'Super description 2',
-    img: '/src/assets/img/punkt.png',
+    img: 'img/punkt.png',
     lngLat: [30.523333, 50.490001],
   },
 ]
